@@ -6,5 +6,7 @@ The problem statement involved predicting the probability of ad clicks on the ba
 The training data includes all you need to know about the problem statement.
 
 Predictive algorithm - XGBoost
+
 Evaluation Metric - AUC:ROC
+
 Binary Logistic classifier
